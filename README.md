@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋 Hello…
 
-<!--
-**trovster/trovster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Trevor Morris aka [@trovster](https://twitter.com/trovster).
 
-Here are some ideas to get you started:
+I enjoy the “three ems”… [music 🎶](https://www.last.fm/user/trovster), [movies 🍿](https://letterboxd.com/trovster/) and [mountain biking 🚵‍♂️](https://www.strava.com/athletes/trovster).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+I am a freelance developer from the UK. I am a *full-stack* web developer, which means I love writing HTML, CSS & JavaScript as well as PHP and MySQL.
+
+Some of my favourite open-source projects I use on a daily basic include;
+
+* [Laravel](https://laravel.com)
+* [Tailwind](https://tailwindcss.com)
