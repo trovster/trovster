@@ -8,7 +8,7 @@ I am a freelance **full-stack web developer** from the UK. That means I love wri
 
 ---
 
-I have over fifteen years of web development experience working for both small design agencies and large development companies. I am currently freelancing at [Surface](https://madebysurface.co.uk) where I work as a contractor to agencies helping them offer web development to their clients.
+I have over seventeen years of web development experience working for both small design agencies and large development companies. I am currently freelancing at [Surface](https://madebysurface.co.uk) where I work as a contractor to agencies helping them offer web development to their clients.
 
 I have a passion for **everything web**. I am fluent in both *front*- and *back*-end coding, as well as deployment and tooling.
 
